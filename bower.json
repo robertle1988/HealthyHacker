@@ -1,11 +1,10 @@
 {
-  "name": "Electron-Boilerplate",
+  "name": "HealthyHacker",
   "version": "1.1.1",
-  "homepage": "https://github.com/Stephn-R/Electron-Boilerplate",
   "authors": [
-    "Stephen Rodriguez <steprodriguez10@gmail.com>"
+    "Mobi UTA <uta.mobi@gmail.com>"
   ],
-  "description": "A template for Electron projects to build/publish Mac/Windows/Linux compatible applications",
+  "description": "A productivity and health tool for hackers at hackatons",
   "moduleType": [
     "node"
   ],

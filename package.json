@@ -1,7 +1,10 @@
 {
-  "name": "electron-angular-boilerplate",
-  "version": "1.4.0",
-  "description": "A basic electron app using AngularJS and Skeleton CSS with ES6 support",
+  "name": "HealthyHacker",
+  "version": "1.1.1",
+  "authors": [
+    "Mobi UTA <uta.mobi@gmail.com>"
+  ],
+  "description": "A productivity and health tool for hackers at hackatons",
   "engines": {
     "node": "<0.12"
   },
@@ -18,7 +21,6 @@
     "url": "https://github.com/Stephn-R/Electron-Boilerplate.git"
   },
   "keywords": [],
-  "author": "steprodriguez10@gmail.com",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Stephn-R/Electron-Boilerplate/issues"
